@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [Choices an Anti Drug Adventure](https://github.com/spark-lucifer/Choices-an-Anti-Drug-Adventure)
 
+- 🌱 I’m currently learning **Azure , Blender**
+
 - 💬 Ask me about **Django , C++**
 
 - 📫 How to reach me **piyushchy05@gmail.com**
