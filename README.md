@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Azure , Blender**
 
-- 💬 Ask me about **Django , C++**
+- 💬 Ask me about **Django , C++ , Node.js**
 
 - 📫 How to reach me **piyushchy05@gmail.com**
 
